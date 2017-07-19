@@ -1,0 +1,11 @@
+Package: PCA
+Type: Package
+Title: performs PCA analysis of 7 variances and make graphs (Title Case)
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: performs PCA analysis of 7 variances and make graphs
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
